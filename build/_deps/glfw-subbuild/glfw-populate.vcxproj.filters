@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\17fa6b24eb17bdb572634505c1d2f5cb\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\17fa6b24eb17bdb572634505c1d2f5cb\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\17fa6b24eb17bdb572634505c1d2f5cb\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\17fa6b24eb17bdb572634505c1d2f5cb\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\17fa6b24eb17bdb572634505c1d2f5cb\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\17fa6b24eb17bdb572634505c1d2f5cb\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\17fa6b24eb17bdb572634505c1d2f5cb\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\17fa6b24eb17bdb572634505c1d2f5cb\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\765928a8cc0d5b71eb2dc61c1137c672\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\d925e0e46d62f9c0c9f4a85fd52b1932\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\tremdogta5\files (1)\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{94982749-87B3-3CB1-9BEB-62C4B491573E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

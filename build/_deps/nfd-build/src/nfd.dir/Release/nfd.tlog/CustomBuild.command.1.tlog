@@ -1,0 +1,10 @@
+^E:\TREMDOGTA5\FILES (1)\BUILD\_DEPS\NFD-SRC\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/tremdogta5/files (1)" "-BE:/tremdogta5/files (1)/build" --check-stamp-file "E:/tremdogta5/files (1)/build/_deps/nfd-build/src/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

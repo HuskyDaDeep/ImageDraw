@@ -1,0 +1,3 @@
+E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/nfd-populate.dir
+E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ALL_BUILD.dir
+E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ZERO_CHECK.dir

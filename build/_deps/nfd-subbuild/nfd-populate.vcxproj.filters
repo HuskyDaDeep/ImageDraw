@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\ec0ba1769b62c47e11234eaa01d1a8c7\nfd-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\ec0ba1769b62c47e11234eaa01d1a8c7\nfd-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\ec0ba1769b62c47e11234eaa01d1a8c7\nfd-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\ec0ba1769b62c47e11234eaa01d1a8c7\nfd-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\ec0ba1769b62c47e11234eaa01d1a8c7\nfd-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\ec0ba1769b62c47e11234eaa01d1a8c7\nfd-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\ec0ba1769b62c47e11234eaa01d1a8c7\nfd-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\ec0ba1769b62c47e11234eaa01d1a8c7\nfd-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\24f5197ad24b2f2f6e9a1aa52abbc746\nfd-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\4ebca146f59a268e5c62509d37f8d05a\nfd-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\nfd-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8AFB67FD-6754-3D9D-8D28-9CB03AA671BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

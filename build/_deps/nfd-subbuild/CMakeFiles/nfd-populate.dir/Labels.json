@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/nfd-populate"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/4ebca146f59a268e5c62509d37f8d05a/nfd-populate.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/24f5197ad24b2f2f6e9a1aa52abbc746/nfd-populate-complete.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ec0ba1769b62c47e11234eaa01d1a8c7/nfd-populate-build.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ec0ba1769b62c47e11234eaa01d1a8c7/nfd-populate-configure.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ec0ba1769b62c47e11234eaa01d1a8c7/nfd-populate-download.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ec0ba1769b62c47e11234eaa01d1a8c7/nfd-populate-install.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ec0ba1769b62c47e11234eaa01d1a8c7/nfd-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ec0ba1769b62c47e11234eaa01d1a8c7/nfd-populate-patch.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ec0ba1769b62c47e11234eaa01d1a8c7/nfd-populate-test.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/nfd-subbuild/CMakeFiles/ec0ba1769b62c47e11234eaa01d1a8c7/nfd-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nfd-populate"
+		],
+		"name" : "nfd-populate"
+	}
+}

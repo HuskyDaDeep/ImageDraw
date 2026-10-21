@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/d925e0e46d62f9c0c9f4a85fd52b1932/glfw-populate.rule
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/765928a8cc0d5b71eb2dc61c1137c672/glfw-populate-complete.rule
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-build.rule
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-configure.rule
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-download.rule
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-install.rule
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-mkdir.rule
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-patch.rule
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-test.rule
+E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-update.rule

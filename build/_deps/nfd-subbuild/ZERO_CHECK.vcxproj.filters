@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\tremdogta5\files (1)\build\_deps\nfd-subbuild\CMakeFiles\4ebca146f59a268e5c62509d37f8d05a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8AFB67FD-6754-3D9D-8D28-9CB03AA671BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

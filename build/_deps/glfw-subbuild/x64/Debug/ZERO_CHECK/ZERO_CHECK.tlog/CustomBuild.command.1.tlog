@@ -1,0 +1,10 @@
+^E:\TREMDOGTA5\FILES (1)\BUILD\_DEPS\GLFW-SUBBUILD\CMAKEFILES\D925E0E46D62F9C0C9F4A85FD52B1932\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/tremdogta5/files (1)/build/_deps/glfw-subbuild" "-BE:/tremdogta5/files (1)/build/_deps/glfw-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/glfw-populate.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

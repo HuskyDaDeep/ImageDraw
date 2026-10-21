@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/tremdogta5/files (1)/build/cmake_install.cmake",
+		"E:/tremdogta5/files (1)/build/_deps/glfw-build/cmake_install.cmake",
+		"E:/tremdogta5/files (1)/build/_deps/glfw-build/src/cmake_install.cmake",
+		"E:/tremdogta5/files (1)/build/_deps/nfd-build/cmake_install.cmake",
+		"E:/tremdogta5/files (1)/build/_deps/nfd-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

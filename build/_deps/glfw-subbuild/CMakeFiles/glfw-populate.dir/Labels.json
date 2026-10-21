@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/d925e0e46d62f9c0c9f4a85fd52b1932/glfw-populate.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/765928a8cc0d5b71eb2dc61c1137c672/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-build.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-download.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-install.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-test.rule"
+		},
+		{
+			"file" : "E:/tremdogta5/files (1)/build/_deps/glfw-subbuild/CMakeFiles/17fa6b24eb17bdb572634505c1d2f5cb/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

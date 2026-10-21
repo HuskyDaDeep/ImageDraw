@@ -1,0 +1,14 @@
+# Target labels
+ stb-populate
+# Source files and their labels
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/stb-populate
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/25d762547f0a1585a2da42313104a4ae/stb-populate.rule
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/e92a535367df6e5993a21d633b8149bd/stb-populate-complete.rule
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/e0afa736a023bb0a0e0654a51a055305/stb-populate-build.rule
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/e0afa736a023bb0a0e0654a51a055305/stb-populate-configure.rule
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/e0afa736a023bb0a0e0654a51a055305/stb-populate-download.rule
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/e0afa736a023bb0a0e0654a51a055305/stb-populate-install.rule
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/e0afa736a023bb0a0e0654a51a055305/stb-populate-mkdir.rule
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/e0afa736a023bb0a0e0654a51a055305/stb-populate-patch.rule
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/e0afa736a023bb0a0e0654a51a055305/stb-populate-test.rule
+E:/tremdogta5/files (1)/build/_deps/stb-subbuild/CMakeFiles/e0afa736a023bb0a0e0654a51a055305/stb-populate-update.rule

@@ -1,0 +1,15 @@
+E:/tremdogta5/files (1)/build/CMakeFiles/imgui_lib.dir
+E:/tremdogta5/files (1)/build/CMakeFiles/img2vec.dir
+E:/tremdogta5/files (1)/build/CMakeFiles/INSTALL.dir
+E:/tremdogta5/files (1)/build/CMakeFiles/ALL_BUILD.dir
+E:/tremdogta5/files (1)/build/CMakeFiles/ZERO_CHECK.dir
+E:/tremdogta5/files (1)/build/_deps/glfw-build/CMakeFiles/uninstall.dir
+E:/tremdogta5/files (1)/build/_deps/glfw-build/CMakeFiles/INSTALL.dir
+E:/tremdogta5/files (1)/build/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+E:/tremdogta5/files (1)/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+E:/tremdogta5/files (1)/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+E:/tremdogta5/files (1)/build/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
+E:/tremdogta5/files (1)/build/_deps/nfd-build/CMakeFiles/INSTALL.dir
+E:/tremdogta5/files (1)/build/_deps/nfd-build/CMakeFiles/ALL_BUILD.dir
+E:/tremdogta5/files (1)/build/_deps/nfd-build/src/CMakeFiles/nfd.dir
+E:/tremdogta5/files (1)/build/_deps/nfd-build/src/CMakeFiles/INSTALL.dir
